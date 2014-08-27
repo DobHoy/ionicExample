@@ -1,0 +1,17 @@
+/* Empty. Add your own CSS if you like */
+
+.bar-calm{
+
+  box-shadow: 5px 5px 5px grey;
+}
+.item.item-avatar-right {
+    border-top-left-radius: 50px !important;
+    border-top-right-radius: 10px !important;
+    background: #9ff59f;
+}
+.item.item-body img {
+    max-width: 100% !important;
+    max-height: 100% !important;
+}
+
+

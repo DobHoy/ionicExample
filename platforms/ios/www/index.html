@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en" data-ng-app="App">
+<head>
+  <title>Freshly pressed</title>
+
+  <!-- Ionic Liabries -->
+
+  <link rel="stylesheet" type="text/css" href="lib/ionic/css/ionic.css">
+  <script src="lib/ionic/js/ionic.bundle.js"></script>
+
+  <script src="cordova.js"></script>
+
+  <!-- my app -->
+
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <script src="js/app.js"></script>
+
+</head>
+<body data-ng-controller="AppCtrl" class="platform-ios platform-cordova platform-webview">
+  <ion-header-bar class="bar-calm">
+    <h1 class="title">Freshly pressed</h1>
+    <button class="button" data-ng-click="refresh()">
+      <i class="icon ion-refresh"></i>
+    </button>
+  </ion-header-bar>
+
+  <ion-content>
+    <h1>Some content</h1>
+  </ion-content>
+
+</body>
+</html>

@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:6
+-keep class com.ionicframework.freshlypressed647731.freshlypressed { <init>(...); }
+
