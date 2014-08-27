@@ -1,3 +1,9 @@
+A Ionic sample app made by following instructions [here](https://www.youtube.com/watch?v=sCnGSOaaZFo)
+
+Thanks and credit to [Oneminute Distraction](https://twitter.com/1MinDistraction)
+
+
+
 Ionic App Base
 =====================
 
